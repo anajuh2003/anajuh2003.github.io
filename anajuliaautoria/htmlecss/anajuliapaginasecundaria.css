@@ -1,0 +1,22 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: black;
+    font-style: verdana;
+    text-align: justify;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: black;
+    font-style: verdana;
+    text-align: justify;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: black;
+    font-style: verdana;
+    text-align: justify;
+}
+body { background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqVUOCt1t98KAPIByzUw5wufcHAegXIR-fZg&usqp=CAU")}
